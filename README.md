@@ -1,4 +1,5 @@
 # data_structure_and_algorithms
 
-hi my neame mohamme deleeb
+## in this repo i'll add  solve some issues broplem solving
+ 
 data structure and algorithms
